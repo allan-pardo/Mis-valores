@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(4, 46, 94);
+    font-size: 18px;
+    color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    background-color: rgb(174, 196, 77) ;
+}
+h2{ font-size: 30px;
+    background-color: rgb(77, 77, 196) ;
+}
+p{
+    font-size: 18px;
+    background-color: rgb(77, 77, 196) ;
+}
+
+.compacto{
+    background-color: rgb(77, 77, 196);
+    text-align: center;
+}
